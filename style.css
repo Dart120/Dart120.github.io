@@ -1,0 +1,89 @@
+.red,.yellow,.orange,.green,.blue,.indigo,.violet{
+  
+  margin:0 auto;
+  padding: 10px;
+  border-radius: 1em;
+  
+}
+.scroll{
+  height: 1000px;
+}
+.red{
+  background-color: red;
+  width: 100%;
+  
+
+}
+.yellow{
+  background-color: yellow;
+  
+
+}
+.orange{
+  background-color: orange;
+
+}
+.blue{
+  background-color: blue;
+
+}
+.indigo{
+  background-color: indigo;
+
+}
+.violet{
+  background-color: violet;
+
+}
+.green{
+  background-color: green;
+
+}
+
+img{
+  object-fit: cover;
+  width: 45%;
+}
+.container{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.container-society{
+  flex-direction: row;
+  margin-bottom: 1em;
+}
+h1{
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  
+}
+h2{
+  width: 50%;
+  margin: auto;
+}
+marquee{
+  color: white;
+
+
+}
+  
+.reverse1{
+  order: 1;
+}
+.reverse2{
+ order: 2;
+}
+
+body{
+  margin: 0 auto;
+  padding: 0;
+  background-color: black;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+
+}
